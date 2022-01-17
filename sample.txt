@@ -2,3 +2,5 @@ new changfes were done for stash command
 
 1234
 new text
+new changes today
+DevOps New Trends and Workshops in Mar 2022
