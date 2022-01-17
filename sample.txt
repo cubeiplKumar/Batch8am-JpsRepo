@@ -4,3 +4,6 @@ new changfes were done for stash command
 new text
 new changes today
 DevOps New Trends and Workshops in Mar 2022
+appending new content into the existing file
+CloudComputing Project
+Deployments
